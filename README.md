@@ -18,15 +18,13 @@ This is the frontend application for the Task Manager, built using **Vite**, **R
 - [License](#license)
 
 ---
-
 ## Project Setup
-
 ### Prerequisites
-
 Ensure you have the following installed:
 
 - **Node.js 22**: Download and install the latest LTS version from [Node.js](https://nodejs.org/).
 - **PNPM**: Install PNPM globally using the following command:
+
   ```bash
   npm install -g pnpm
   ```
