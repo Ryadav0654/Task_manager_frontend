@@ -27,7 +27,7 @@ const formatDate = (dateString: string) => {
 
 const EditTaskForm: React.FC = () => {
   const { id } = useParams<{ id: string }>();
-
+  console.log(id);
   const {
     register,
     handleSubmit,
